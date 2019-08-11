@@ -1,0 +1,12 @@
+.DS_Store
+
+# dot_vagrant
+vagrant/.vagrant/
+
+# vagrant insecure private key
+vagrant.pem
+
+# binary files
+*.vdi
+*.iso
+*.box
